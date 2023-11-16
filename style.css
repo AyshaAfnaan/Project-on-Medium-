@@ -221,3 +221,13 @@ border: none;
 .otherMenu{
     color: var(--clr-gray);
 }
+
+.white {
+    background-color: white;
+}
+
+.btn-green {
+    background-color: rgb(26, 137, 23);
+    border-color: rgb(26, 137, 23);
+    color: white;
+}
